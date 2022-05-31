@@ -1,2 +1,6 @@
 # students-springboot-backend
-Springboot backend for a university homework project 
+
+
+Backend For my webdevelopment project [students-angular-frontend](https://github.com/Samate99/students-angular-frontend)
+
+
